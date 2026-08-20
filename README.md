@@ -1,5 +1,5 @@
 # 5-Extension-of-Vibrating-Screen-Mesh-Life-Through-Mechanical-Modification
-Project Overview
+Project Overview:
 
 A recurring mesh failure problem was observed in the vibrating screen, where screen meshes were frequently failing after approximately 500 running hours. The repeated failures resulted in production stoppages, maintenance intervention, and manpower engagement for mesh replacement and related maintenance activities.
 
